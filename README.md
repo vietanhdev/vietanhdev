@@ -5,7 +5,7 @@
 - 📝 My blog: [https://aicurious.io/](https://aicurious.io/)
 - 📄 More about me: [https://aicurious.io/about/](https://aicurious.io/about/)
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&show_icons=true&locale=en" alt="vietanhdev" /></p></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true" alt="vietanhdev" /></p></div>
 
 ### Connect with me:
 
