@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Viet Anh.
-### Software Engineer / AI Developer / Blogger at AICurious.io / Founder Of VNOpenAI.org
+### AI Software Engineer / Blogger at AICurious.io / Founder Of VNOpenAI.org
 
 - 📄 About me: [https://aicurious.io/about/](https://aicurious.io/about/)
 - 💻 Some of my projects: [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
