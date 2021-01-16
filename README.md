@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Viet Anh.
-### AI Software Engineer / Blogger at AICurious.io / Founder Of VNOpenAI.org
+### AI Software Engineer / Blogger at [AICurious.io](https://aicurious.io/) / Founder Of [VNOpenAI.org](https://vnopenai.org/)
 
 - 📄 About me: [https://aicurious.io/about/](https://aicurious.io/about/)
 - 💻 Some of my projects: [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
@@ -9,7 +9,7 @@
 
 ### News
 
-- 01/2021: I've just started **VNOpenAI.org** with some friends to build open source AI projects from Vietnam. [See our current projects](https://vnopenai.org/projects/) or [Join us](https://vnopenai.org/contact/).
+- 01/2021: I've just started **[VNOpenAI.org](https://vnopenai.org/)** with some friends to build open source AI projects from Vietnam. [See our current projects](https://vnopenai.org/projects/) or [Join us](https://vnopenai.org/contact/).
 - 11/2020: I'm participating in VIA 3D-printed autonomous car project of [HanoiMaker](https://www.facebook.com/makerhanoi/) as a contributor to AI learning materials. If you are interested in self-driving car, follow [HanoiMaker Fanpage](facebook.com/makerhanoi/) for our lastest news.
 
 ### Connect with me:
