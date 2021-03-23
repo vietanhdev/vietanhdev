@@ -10,7 +10,7 @@
 
 ### News
 
-- 03/2021: I'm now the tech lead of [VIA](https://via.makerviet.org/), a 3D-printed self-driving car project hosted by [MakerHanoi](https://www.facebook.com/makerhanoi/). If you are interested in AI and robotics education, especially in this project, follow [HanoiMaker Fanpage](facebook.com/makerhanoi/) or [our project website](https://via.makerviet.org/) for the lastest news.
+- 03/2021: I'm now the tech lead of [VIA](https://via.makerviet.org/), a 3D-printed self-driving car project hosted by [MakerHanoi](https://www.facebook.com/makerhanoi/). If you are interested in AI and robotics education, especially in this project, follow [HanoiMaker Fanpage](https://facebook.com/makerhanoi/) or [our project website](https://via.makerviet.org/) for the lastest news.
 
 ### Connect with me:
 
