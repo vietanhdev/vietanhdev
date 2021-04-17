@@ -8,10 +8,6 @@
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true" alt="vietanhdev" /></p></div>
 
-### News
-
-- 03/2021: I'm now the tech lead of [VIA](https://via.makerviet.org/), a 3D-printed self-driving car project hosted by [MakerHanoi](https://www.facebook.com/makerhanoi/). If you are interested in AI and robotics education, especially in this project, follow [HanoiMaker Fanpage](https://facebook.com/makerhanoi/) or [our project website](https://via.makerviet.org/) for the lastest news.
-
 ### Connect with me:
 
 [<img align="left" alt="aicurious.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
