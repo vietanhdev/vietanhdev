@@ -18,4 +18,8 @@
 [twitter]: https://twitter.com/vietanhdev
 [linkedin]: https://linkedin.com/in/vietanhdev
 
+### Donate for my works
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://aicurious.io/donation/)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vietanhdev&label=Profile%20views&color=0e75b6&style=flat" alt="vietanhdev" /> </p>
