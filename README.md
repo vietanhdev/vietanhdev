@@ -18,7 +18,7 @@
 [twitter]: https://twitter.com/vietanhdev
 [linkedin]: https://linkedin.com/in/vietanhdev
 
-### Donate for my works
+<div style="clear: both; margin-botton: 1rem;"><div>
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://aicurious.io/donation/)
 
