@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Viet Anh.
-### Machine Learning & Robotics Engineer / Blogger at [AICurious.io](https://aicurious.io/)
+### Machine Learning & Robotics Engineer working at [VinAI Research](https://www.vinai.io/)
+### Blogger at [AICurious.io](https://aicurious.io/)
 
 - 📄 About me: [https://aicurious.io/about/](https://aicurious.io/about/)
 - 💻 Some of my projects: [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
