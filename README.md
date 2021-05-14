@@ -1,6 +1,12 @@
 ## Hi 👋, I'm Viet Anh.
 ### AI Engineer @ [VinAI Research](https://www.vinai.io/) | Content Maker @ [AICurious.io](https://aicurious.io/)
 
+
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
+
 - 📄 About me: [https://aicurious.io/about/](https://aicurious.io/about/)
 - 💻 Some of my projects: [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
 - 📝 My blog: [https://aicurious.io/](https://aicurious.io/)
