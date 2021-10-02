@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Viet Anh.
-### AI Engineer @ [VinAI Research](https://www.vinai.io/) | Blogger @ [AICurious.io](https://aicurious.io/)
+### AI Engineer @ [Samsung SDS Vietnam](https://www.samsungsds.com/en/index.html) | Blogger @ [AICurious.io](https://aicurious.io/)
 
 <img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
 
