@@ -9,3 +9,5 @@
 - **Coding languages (mostly use):** Python, C/C++, Javascript, Bash.
 - **Frameworks:** Tensorflow/Keras, Pytorch, TensorRT, NCNN, OpenCV.
 - **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [VIA Project](https://via.makerviet.org/), [VNOpenAI.org](https://vnopenai.org/).
+
+<img src="https://komarev.com/ghpvc/?username=vietanhdev" align="right">
