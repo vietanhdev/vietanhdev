@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Viet Anh.
 ### AI Engineer @ [Samsung SDS Vietnam](https://www.samsungsds.com/en/index.html) | Blogger @ [AICurious.io](https://aicurious.io/)
 
-<img src="https://user-images.githubusercontent.com/18329471/139843163-fb733428-0a3d-4f41-b1b4-7dbaf01748fb.png" style="float: right; width: 15rem" align="right">
-
 - **Skills:** AI, Computer Vision, Web & App development.
 - **My intro:** [https://aicurious.io/about/](https://aicurious.io/about/)
 - **My projects:** [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
