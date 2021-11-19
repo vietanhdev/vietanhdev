@@ -9,5 +9,7 @@
 - **Coding languages (mostly use):** Python, C/C++, Javascript, Bash.
 - **Frameworks:** Tensorflow/Keras, Pytorch, TensorRT, NCNN, OpenCV.
 - **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [VIA Project](https://via.makerviet.org/), [VNOpenAI.org](https://vnopenai.org/).
+- **Open source I'm working on:** Daisykit AI toolkit <https://github.com/Daisykit-AI>
+- **Donation for my open source efforts:** <https://www.patreon.com/vietanhdev>
 
 <img src="https://komarev.com/ghpvc/?username=vietanhdev" align="right">
