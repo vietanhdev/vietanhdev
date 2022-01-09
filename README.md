@@ -1,6 +1,6 @@
 
 
-## Hi 👋, I'm Viet Anh | AI Engineer @ [Samsung SDS VN](https://www.samsungsds.com/en/index.html) | Blogger @ [AICurious.io](https://aicurious.io/)
+## Hi 👋, I'm Viet Anh | Machine Learning Engineer | Blogger @ [AICurious.io](https://aicurious.io/)
 
 ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
