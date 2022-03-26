@@ -10,11 +10,10 @@
  </div>
 
 - **Skills:** AI, Computer Vision, Web & App development.
-- **My intro:** [https://aicurious.io/about/](https://aicurious.io/about/)
+- **Personal Blog:** [https://aicurious.io](https://aicurious.io)
 - **My projects:** [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
 - **Coding languages (mostly use):** Python, C/C++, Javascript.
-- **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [VIA Project](https://via.makerviet.org/), [VNOpenAI.org](https://vnopenai.org/).
-- **Open source I'm working on:** [Daisykit AI toolkit](https://github.com/DaisyLabSolutions/daisykit), [VIA-Vietnam Autonomous](https://via.makerviet.org/vi/).
+- **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [Daisykit AI](https://daisykit.org/), [VNOpenAI.org](https://vnopenai.org/).
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=false&show_icons=true&hide_border=false"><img style="float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=vietanhdev">
 
