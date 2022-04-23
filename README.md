@@ -15,5 +15,3 @@
 - **Coding languages (mostly use):** Python, C/C++, Javascript.
 - **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [Daisykit AI](https://daisykit.org/), [VNOpenAI.org](https://vnopenai.org/).
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=false&show_icons=true&hide_border=false"><img style="float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=vietanhdev">
-
