@@ -15,4 +15,4 @@
 - **Founder of** [Open DaisyLab](https://github.com/open-daisylab) - an open source organization.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
+<img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
