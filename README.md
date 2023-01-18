@@ -10,7 +10,7 @@
 <br>
 
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
-- **Blogging at** [AICurious.io](https://aicurious.io) / [https://vietanh.dev](https://vietanh.dev).
+- **Blogging at** [https://vietanh.dev](https://vietanh.dev) (former [AICurious.io](https://aicurious.io)).
 - **Author of** [Daisykit](https://docs.daisykit.org/en/latest/) - easy AI for everyone.
 - **Founder of** [Open DaisyLab](https://github.com/open-daisylab) - an open source organization.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
