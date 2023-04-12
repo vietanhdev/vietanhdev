@@ -12,7 +12,7 @@
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
 - **Blogger at** [AICurious.io](https://aicurious.io).
 - **Author of** [Daisykit](https://daisykit.nrl.ai) - easy AI for everyone.
-- **Founder of** [NeuralResearchLab](https://nrl.ai) - AI software solution team.
+- **Author of** [AnyLabeling](https://github.com/vietanhdev/anylabeling) - image labeling tool with Segment Anything + YOLO support.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 <img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
