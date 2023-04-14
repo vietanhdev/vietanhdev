@@ -13,7 +13,7 @@
 - **Blogger at** [AICurious.io](https://aicurious.io).
 - **Author of** [Daisykit](https://daisykit.nrl.ai) - easy AI for everyone.
 - **Author of** [AnyLabeling](https://github.com/vietanhdev/anylabeling) - image labeling tool with Segment Anything + YOLO support.
-- **Team leader of** [NeuralResearchLab]([https://github.com/vietanhdev/anylabeling](https://www.nrl.ai/)) and **main developer** of [NeuralVN](https://ai.neural.vn/) - Online knowledge sharing platform.
+- **Team leader of** [NeuralResearchLab](https://www.nrl.ai/) and **main developer** of [NeuralVN](https://ai.neural.vn/) - Online knowledge sharing platform.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 <img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
