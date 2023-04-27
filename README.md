@@ -16,4 +16,4 @@
 - **Team leader of** [NeuralResearchLab](https://www.nrl.ai/) and **developer** of [NeuralVN](https://ai.neural.vn/) - Online knowledge sharing platform.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
-<img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=false&show_icons=true&hide_border=false">
+<img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
