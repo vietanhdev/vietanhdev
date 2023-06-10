@@ -11,9 +11,14 @@
 
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
-- **Author of** [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
-- **Author of** [AnyLabeling](https://github.com/vietanhdev/anylabeling) (800+⭐) - Image labeling tool with Segment Anything + YOLO support.
 - **Founder of** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
+
+**Highlighted open-source projects:**
+
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (800+⭐) - Image labeling tool with Segment Anything + YOLO support.
+- [PⒶutoBot](https://github.com/nrl-ai/pautobot) - Private AutoGPT Robot - Your private task assistant with GPT!
+- [OpenADAS](https://github.com/vietanhdev/open-adas) - An advanced driver-assistance system on Jetson Nano.
 
 <img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=false&show_icons=true&hide_border=false&t=20230427">
