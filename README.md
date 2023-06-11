@@ -16,9 +16,9 @@
 
 **Highlighted open-source projects:**
 
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (800+⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [PⒶutoBot](https://github.com/nrl-ai/pautobot) - Private AutoGPT Robot - Your private task assistant with GPT!
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (850+⭐) - Image labeling tool with Segment Anything + YOLO support.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) - An advanced driver-assistance system on Jetson Nano.
 
-<img style="float: left;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietanhdev&count_private=false&show_icons=true&hide_border=false&t=20230427">
+![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=true&count_private=false)
