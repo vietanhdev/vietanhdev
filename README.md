@@ -10,15 +10,17 @@
 <br>
 
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
+- **DayTime Job:** AI Engineer at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps, Manufacturing Intelligence Platform.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
-- **Founder of** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
+- **Open-source Builder at** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 **Highlighted open-source projects:**
 
-- [PⒶutoBot](https://github.com/nrl-ai/pautobot) - Private AutoGPT Robot - Your private task assistant with GPT!
+- [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) (850+⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
-- [OpenADAS](https://github.com/vietanhdev/open-adas) - An advanced driver-assistance system on Jetson Nano.
+- [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
+- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=true&count_private=false)
+![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=false)
