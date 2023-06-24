@@ -1,7 +1,5 @@
 
-## 👋 Hi!, I'm Viet Anh - Software Engineer / Open Source Contributor
-
-![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
+## 👋 Hi!, I'm Viet Anh - An Always-Curious Engineer
 
 <div style="clear:both; width: 100%;"> 
 <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
@@ -12,15 +10,16 @@
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
 - **DayTime Job:** AI Engineer at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps, Manufacturing Intelligence Platform.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
-- **Open-source Builder at** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
+- **Team lead of** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
-**Highlighted open-source projects:**
+**Side Projects:**
 
-- [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (900+⭐) - Image labeling tool with Segment Anything + YOLO support.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
-- [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
-- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
+- **Neural VN:** Online Learning Platform [https://vn.nrl.ai/](https://vn.nrl.ai/).
+- ![](https://img.shields.io/badge/Open_Source-O-dark) &nbsp; [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
+- ![](https://img.shields.io/badge/Open_Source-O-dark) &nbsp; [AnyLabeling](https://github.com/vietanhdev/anylabeling) (900+⭐) - Image labeling tool with Segment Anything + YOLO support.
+- ![](https://img.shields.io/badge/Open_Source-O-dark) &nbsp; [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
+- ![](https://img.shields.io/badge/Open_Source-O-dark) &nbsp; [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
+- ![](https://img.shields.io/badge/Open_Source-O-dark) &nbsp; [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
 
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=false)
