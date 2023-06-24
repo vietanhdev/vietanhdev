@@ -18,7 +18,7 @@
 **Highlighted open-source projects:**
 
 - [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (850+⭐) - Image labeling tool with Segment Anything + YOLO support.
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (900+⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
