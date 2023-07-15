@@ -21,15 +21,15 @@
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
 - **DayTime Job:** AI Engineer at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps, Manufacturing Intelligence Platform.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
-- **Team lead of** [🔥 Neural Research Lab 🔥](https://github.com/nrl-ai).
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 **Side Projects:**
 
-- [Neural VN](https://vn.nrl.ai/) 🎓 Online knowledge sharing and learning platform.
-- [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) (1k+ ⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
+- [Neural VN](https://vn.nrl.ai/)🎓 - Online knowledge-sharing and learning platform.
+- [NextCafeteria](https://github.com/NextCafeteria/cafeteria) ☕ - Online ordering system for coffee shops.
+- [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
 
