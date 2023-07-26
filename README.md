@@ -25,11 +25,11 @@
 
 **Side Projects:**
 
+- **WIP\*** [CustomChar 🤖](https://github.com/vietanhdev/CustomChar) - Your customized AI characters on commodity hardware! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) (1k+ ⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
 - [Neural VN](https://vn.nrl.ai/) 🎓 - Online knowledge-sharing and learning platform.
 - [NextCafeteria](https://github.com/NextCafeteria/cafeteria) ☕ - Online ordering system for coffee shops.
-- [PⒶutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Private AutoGPT Robot - Your private task assistant with GPT!
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
 
