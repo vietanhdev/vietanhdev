@@ -32,4 +32,4 @@
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano.
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true)
+![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true) ![vietanhdev's Stats](https://streak-stats.demolab.com/?user=vietanhdev)
