@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
-- **DayTime Job:** AI Engineer at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps, Manufacturing Intelligence Platform.
+- **DayTime Job:** AI Engineer / Solution Architect at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps for Manufacturing & Intelligence Document Processing.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 - **Strava:** [strava.com/athletes/vietanhdev](https://www.strava.com/athletes/vietanhdev).
