@@ -22,6 +22,7 @@
 - **DayTime Job:** AI Engineer at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps, Manufacturing Intelligence Platform.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
+- **Strava:** [strava.com/athletes/vietanhdev](https://www.strava.com/athletes/vietanhdev).
 
 **Side Projects:**
 
