@@ -27,7 +27,7 @@
 **Side Projects:**
 
 - [CustomChar 🤖](https://github.com/nrl-ai/CustomChar) - Offline customized AI characters! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (1.3k+ ⭐) - Image labeling tool with Segment Anything + YOLO support.
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) (1.4k+ ⭐) - Image labeling tool with Segment Anything + YOLO support.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone.
 - [NextCafeteria](https://github.com/NextCafeteria/cafeteria) ☕ - Online ordering system for coffee shops.
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous car for education.
