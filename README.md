@@ -1,5 +1,6 @@
 
-## 👋 Hi!, I'm Viet Anh - An Always-Curious Engineer
+## 👋 Hi!, I'm Viet Anh - I'm a Maker!
+## Work Hard, Make More, and Share.
 
 <div style="clear:both; width: 100%;"> 
 <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> 
@@ -19,10 +20,9 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI, Computer Vision, Software Development. **Mostly use:** Python, C/C++, Javascript.
-- **DayTime Job:** AI Engineer / Solution Architect at **Samsung SDS R&D Center in Vietnam** - Computer Vision, MLOps for Manufacturing & Intelligence Document Processing.
+- **DayTime Job:** AI Engineer / Solution Architect at **Samsung SDS R&D Center in Vietnam**.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
-- **Strava:** [strava.com/athletes/vietanhdev](https://www.strava.com/athletes/vietanhdev).
 
 **Side Projects:**
 
