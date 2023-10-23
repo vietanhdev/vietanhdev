@@ -1,5 +1,5 @@
 
-## 👋 Hi!, I'm Viet Anh - I'm a Maker!
+## 👋 Hi!, I'm Viet Anh | Software Engineer | Maker | Writer.
 
 > **Work Hard, Make More, and Share. Always Curious.**
 
