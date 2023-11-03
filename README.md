@@ -17,7 +17,7 @@
 
 **Side Projects:**
 
-- [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) - Host your own private AI services - ⭐⭐⭐ On the go to the Docker AI/ML Hackathon 2023.
+- [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) - Host your own private AI services - ⭐⭐⭐ On the go to the **Docker AI/ML Hackathon 2023**.
 - [CustomChar 🤖](https://github.com/nrl-ai/CustomChar) - Offline customized AI characters! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) - Image labeling tool with Segment Anything + YOLO support - **1.4k+ Github** ⭐.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone - **129k downloads on PyPi**.
