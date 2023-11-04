@@ -1,7 +1,7 @@
 
 ## 👋 Hi!, I'm Viet Anh | Software Engineer | Maker | Writer.
 
-> **Work Hard, Make More, and Share. Always Curious.**
+> **Work Hard, Build More, and Share Stories. Always Curious.**
 
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
