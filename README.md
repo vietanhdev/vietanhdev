@@ -3,7 +3,6 @@
 
 > **Work Hard, Build More, and Share Stories. Always Curious.**
 
-
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
@@ -15,7 +14,7 @@
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
-**Side Projects:**
+**Open Source Projects:**
 
 - [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services - ⭐⭐⭐ On the go to the **Docker AI/ML Hackathon 2023**.
 - [ShipFast](https://github.com/vietanhdev/shipfast) 🚀 - Free SaaS Boilerplate for AI Services.
