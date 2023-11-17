@@ -19,7 +19,7 @@
 - [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services - ⭐⭐⭐ On the go to the **Docker AI/ML Hackathon 2023**.
 - [ShipFast](https://github.com/vietanhdev/shipfast) 🚀 - Free SaaS Boilerplate for AI Services.
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
-- [PAutoBot](https://github.com/nrl-ai/pautobot) 🤖 - Offline document chat and automation. **[Call for developers and maintainers](https://aicurious.io/contact)**.
+- [PAutoBot](https://github.com/vietanhdev/pautobot) 🤖 - Offline document chat and automation. **[Call for developers and maintainers](https://aicurious.io/contact)**.
 - [SAM Exporter](https://github.com/vietanhdev/samexporter) 📦 - Export your Segment Anything models to ONNX.
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[1.5k+ Github](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone - **[134k downloads on PyPi](https://www.pepy.tech/projects/daisykit)**.
