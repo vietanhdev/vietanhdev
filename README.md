@@ -16,7 +16,7 @@
 
 **Open Source Projects:**
 
-- [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services - ⭐⭐⭐ On the go to the **Docker AI/ML Hackathon 2023**.
+- [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services.
 - [ShipFast](https://github.com/vietanhdev/shipfast) 🚀 - Free SaaS Boilerplate for AI Services.
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [PAutoBot](https://github.com/vietanhdev/pautobot) 🤖 - Offline document chat and automation. **[Call for developers and maintainers](https://aicurious.io/contact)**.
