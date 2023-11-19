@@ -13,6 +13,7 @@
 - **DayTime Job:** AI Engineer / Software Architect at **Samsung SDS R&D Center in Vietnam**.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
+- **Twitter (X):** [twitter.com/vietanhdev](https://twitter.com/vietanhdev).
 
 **Open Source Projects:**
 
@@ -27,5 +28,6 @@
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source autonomous educational car: AI notebooks, PCB designs, 3D designs.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[350+ Github](https://github.com/vietanhdev/open-adas/stargazers)** ⭐.
 - [Autonomous Car 2020](https://github.com/vietanhdev/autonomous-car-2020) 🛺 - Self-driving cars in simulation environment.
+- And [others ...](https://github.com/vietanhdev?tab=repositories).
 
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true) ![vietanhdev's Stats](https://streak-stats.demolab.com/?user=vietanhdev)
