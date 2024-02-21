@@ -19,8 +19,8 @@
 
 - [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[1.5k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[134k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[1.7k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[152k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [NextCafeteria](https://github.com/NextCafeteria/cafeteria) ☕ - Online ordering system for coffee shops - 🏆 **Top 1 Partner Choice Project**, Gemo.ai Engineering Program.
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source educational autonomous vehicles - 🏆 **Top 10** LearnOpenCV Blog Competition 2020.
 - [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[350+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
