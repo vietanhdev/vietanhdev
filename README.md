@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development. **Mostly use:** Python, C/C++, Javascript.
-- **DayTime Job:** AI Engineer / Software Architect at **Samsung SDS R&D Center in Vietnam**.
+- **DayTime Job:** AI Engineer / AI Software Architect at **Samsung SDS R&D Center in Vietnam**.
 - **Blogger at** [AICurious.io](https://aicurious.io) ✍.
 - **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 - **Twitter (X):** [twitter.com/vietanhdev](https://twitter.com/vietanhdev).
