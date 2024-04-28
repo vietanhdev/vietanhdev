@@ -1,5 +1,5 @@
 
-## 👋 Hi!, I'm Viet Anh | Software Engineer | Maker | Writer.
+## 👋 Hi!, I'm Viet-Anh (Viet) | Software Engineer | Maker | Writer.
 
 > **Work Hard, Build More, and Share Stories. Always Curious.**
 
