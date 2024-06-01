@@ -9,10 +9,9 @@
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
-- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development. **Mostly use:** Python, C/C++, Javascript.
-- **Blogger at** [AICurious.io](https://aicurious.io) ✍.
-- **LinkedIn:** [linkedin.com/in/vietanhdev](https://www.linkedin.com/in/vietanhdev/).
-- **Twitter (X):** [twitter.com/vietanhdev](https://twitter.com/vietanhdev).
+- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
+- **Blogger at** [AICurious.io](https://aicurious.io), [Neural VN](https://www.neural.vn/).
+- **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 **Open Source Projects:**
 
