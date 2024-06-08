@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
-- **Blogger at** [AICurious.io](https://aicurious.io), [Neural VN](https://www.neural.vn/).
+- **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev), [Neural VN](https://www.neural.vn/).
 - **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 **Open Source Projects:**
