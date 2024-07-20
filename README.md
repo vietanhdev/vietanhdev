@@ -10,13 +10,14 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
-- **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev), [Neural VN](https://www.neural.vn/).
+- **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev) - Software Development.
+- **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
 **Open Source Projects:**
 
-- [ChessAI](https://github.com/vietanhdev/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
-- [P8Hub - Private AI Hub](https://github.com/vietanhdev/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
+- [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
+- [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[1.7k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[152k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
