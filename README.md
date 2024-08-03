@@ -14,6 +14,9 @@
 - **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/).
 
+[![Neural Research Lab](https://github.com/user-attachments/assets/ce22e169-69ce-41ea-a823-06eb884d26a9)](https://www.nrl.ai/)
+
+
 **Open Source Projects:**
 
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.1k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
