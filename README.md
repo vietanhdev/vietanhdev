@@ -30,4 +30,4 @@
 - [PaperStream](https://github.com/vietanhdev/paper_stream) - PaperStream - Online Paper Streaming for remote education. - 🏆 **Top 2 IBM - SoICT Hackathon 2020**.
 - And [others ...](https://github.com/vietanhdev?tab=repositories).
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true) ![vietanhdev's Stats](https://streak-stats.demolab.com/?user=vietanhdev)
+![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=true&count_private=true)
