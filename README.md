@@ -1,5 +1,5 @@
 
-## 👋 Hi!, I'm Viet-Anh (Viet) | Software Engineer | Maker | Writer.
+## 👋 Hi!, I'm Viet-Anh (Viet) | ML Engineer | Maker | Writer.
 
 > **Work Hard, Build More, and Share Stories. Always Curious.**
 
@@ -12,10 +12,9 @@
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
 - **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev) - Software Development.
 - **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
-- **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/).
+- **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 
-[![Neural Research Lab](https://github.com/user-attachments/assets/ce22e169-69ce-41ea-a823-06eb884d26a9)](https://www.nrl.ai/)
-
+[![Neural Research Lab](https://github.com/user-attachments/assets/69bd14e1-0a96-4f52-a2b0-4319305bf4f2)](https://www.nrl.ai/)
 
 **Open Source Projects:**
 
@@ -30,4 +29,4 @@
 - [PaperStream](https://github.com/vietanhdev/paper_stream) - PaperStream - Online Paper Streaming for remote education. - 🏆 **Top 2 IBM - SoICT Hackathon 2020**.
 - And [others ...](https://github.com/vietanhdev?tab=repositories).
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=true&count_private=true)
+![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true)
