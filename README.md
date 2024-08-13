@@ -14,7 +14,7 @@
 - **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 
-[![Neural Research Lab](https://github.com/user-attachments/assets/69bd14e1-0a96-4f52-a2b0-4319305bf4f2)](https://www.nrl.ai/)
+[![Neural Research Lab](https://github.com/user-attachments/assets/3d8335c2-63e7-49f5-b854-19f93813f302)](https://www.nrl.ai/)
 
 **Open Source Projects:**
 
