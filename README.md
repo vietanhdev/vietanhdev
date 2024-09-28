@@ -18,7 +18,8 @@
 
 **Open Source Projects:**
 
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.2k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
+- [Llama Assistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks, powered by **Llama 3.2** and other GenAI models. 🔥🔥🔥
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.3k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[179k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
 - [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
