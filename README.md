@@ -14,8 +14,6 @@
 - **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 
-[![www.nrl.ai](https://github.com/user-attachments/assets/f54e23ec-1ae2-4776-b00a-26d7f805efa3)](https://www.nrl.ai)
-
 **Open Source Projects:**
 
 - [Llama Assistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
