@@ -11,7 +11,7 @@
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
 - **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev) - Software Development.
-- **Founder of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
+- **Founder of** [Neural Research Lab](https://www.nrl.ai/) <img src="https://www.nrl.ai/logo/logo-512.png" width="24px"/> - AI & Open Source Team.
 - **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 
 **Open Source Projects:**
