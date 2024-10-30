@@ -11,14 +11,14 @@
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
 - **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev) - Software Development.
-- **Founder of** [Neural Research Lab](https://www.nrl.ai/) <img src="https://www.nrl.ai/logo/logo-512.png" width="24px"/> - AI & Open Source Team.
+- **Founder of** [Neural Research Lab](https://www.nrl.ai/) <a href="https://www.nrl.ai" target="_blank"><img src="https://www.nrl.ai/logo/logo-512.png" width="24px"/></a> - AI & Open Source Team.
 - **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 
 **Open Source Projects:**
 
 - [Llama Assistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.3k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[179k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[205k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
 - [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
