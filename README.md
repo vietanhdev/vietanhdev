@@ -1,13 +1,19 @@
 
 ## 👋 Hi!, I'm Viet-Anh (Viet) | ML Engineer | Maker | Writer.
 
-> **Work Hard, Build More, and Share Stories. Always Curious.**
-
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
+
+> **Work Hard, Build More, and Share Stories. Always Curious.**
+
+Hey there! 👋 I'm a passionate AI/ML Engineer who loves bringing computer vision and deep learning projects to life. When I'm not tinkering with neural networks, I'm busy making AI more approachable for everyone through open-source tools and friendly tutorials. As the founder of Neural Research Lab, I get to work with amazing people who share my enthusiasm for AI innovation. I believe in learning in public and sharing knowledge through my blog posts and open-source contributions - because tech is more fun when we build together! 
+
+Feel free to explore my projects, reach out for collaborations, or just chat about AI - I'm always excited to connect with fellow tech enthusiasts! 🚀
+
+### 🎯 Quick Links & Expertise
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
 - **Blogger at:** <a href="https://www.vietanh.dev" target="_blank"><img src="https://github.com/user-attachments/assets/6803c7be-f0de-459f-afc9-f73fb69992f5" width="18px"/></a> [Viet-Anh on Software](https://www.vietanh.dev) - AI & Software Development.
@@ -15,6 +21,8 @@
 - **HuggingFace:**  <a href="https://huggingface.co/vietanhdev" target="_blank"><img src="https://github.com/user-attachments/assets/7bbfa01b-9c00-4dbb-bf32-7cbb7bf74441" width="18px"/></a> [huggingface.co/vietanhdev](https://huggingface.co/vietanhdev).
 - **LinkedIn:** <a href="https://www.linkedin.com/in/vietanhdev/" target="_blank"><img src="https://github.com/user-attachments/assets/c7f85e0a-a6a2-457f-8e9c-3b58e9a116a2" width="18px"/></a> [linkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 - **About me:** [https://www.vietanh.dev/about](https://www.vietanh.dev/about).
+
+### 🚀 Featured Projects
 
 **Open Source Projects:**
 
@@ -31,4 +39,12 @@
 
 **Other Projects:** [https://www.vietanh.dev/projects](https://www.vietanh.dev/projects).
 
+### 📈 GitHub Stats
+
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhdev&layout=compact&theme=default&hide_border=false)
+
+### 🤝 Let's Connect!
+- Open for collaborations on AI/ML projects.
+- Interested in mentoring and knowledge sharing.
+- Available for technical consulting and speaking engagements.
