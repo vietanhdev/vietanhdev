@@ -10,9 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
-- **Blogger at** [Viet-Anh on Software](https://www.vietanh.dev) - Software Development.
-- **Founder of** [Neural Research Lab](https://www.nrl.ai/) <a href="https://www.nrl.ai" target="_blank"><img src="https://www.nrl.ai/logo/logo-512.png" width="24px"/></a> - AI & Open Source Team.
-- **LinkedIn:** [LinkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
+- **Blogger at:** <a href="https://www.vietanh.dev" target="_blank"><img src="https://github.com/user-attachments/assets/6803c7be-f0de-459f-afc9-f73fb69992f5" width="18px"/></a> [Viet-Anh on Software](https://www.vietanh.dev) - AI & Software Development.
+- **Founder of:** <a href="https://www.nrl.ai" target="_blank"><img src="https://www.nrl.ai/logo/logo-512.png" width="18px"/></a> [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
+- **HuggingFace:**  <a href="https://huggingface.co/vietanhdev" target="_blank"><img src="https://github.com/user-attachments/assets/7bbfa01b-9c00-4dbb-bf32-7cbb7bf74441" width="18px"/></a> [huggingface.co/vietanhdev](https://huggingface.co/vietanhdev).
+- **LinkedIn:** <a href="https://www.linkedin.com/in/vietanhdev/" target="_blank"><img src="https://github.com/user-attachments/assets/c7f85e0a-a6a2-457f-8e9c-3b58e9a116a2" width="18px"/></a> [linkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
+- **About me:** [https://www.vietanh.dev/about](https://www.vietanh.dev/about).
 
 **Open Source Projects:**
 
@@ -23,9 +25,10 @@
 - [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source educational autonomous vehicles - 🏆 **Top 10 LearnOpenCV Blog Competition 2020**.
-- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[350+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
+- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[430+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
 - [Autonomous Car 2020](https://github.com/vietanhdev/autonomous-car-2020) 🛺 - Self-driving cars in simulated environment. - 🏆 **Top 1 FPT DigitalRace - University round at HUST**.
 - [PaperStream](https://github.com/vietanhdev/paper_stream) - PaperStream - Online Paper Streaming for remote education. - 🏆 **Top 2 IBM - SoICT Hackathon 2020**.
-- And [others ...](https://github.com/vietanhdev?tab=repositories).
+
+**Other Projects:** [https://www.vietanh.dev/projects](https://www.vietanh.dev/projects).
 
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true)
