@@ -16,9 +16,9 @@
 
 **Open Source Projects:**
 
-- [Llama Assistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.3k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[205k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
+- [LlamaAssistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.5k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[228k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
 - [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
