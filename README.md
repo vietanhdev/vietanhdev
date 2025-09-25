@@ -27,6 +27,7 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 **Open Source Projects:**
 
 - [LlamaAssistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
+- [CareerAI](https://github.com/nrl-ai/career-ai) - 🚀 Elevate Your Job Hunt with AI-Powered CVs, Interviews, and Job Matches!
 - [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.5k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[228k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
