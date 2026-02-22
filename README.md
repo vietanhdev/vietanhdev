@@ -28,13 +28,13 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 
 - [LlamaAssistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
 - [CareerAI](https://github.com/nrl-ai/career-ai) - 🚀 Elevate Your Job Hunt with AI-Powered CVs, Interviews, and Job Matches!
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[2.5k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[228k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
+- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[3k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
+- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[300k+ downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
 - [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
 - [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
 - [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source educational autonomous vehicles - 🏆 **Top 10 LearnOpenCV Blog Competition 2020**.
-- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[430+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
+- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[480+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
 - [Autonomous Car 2020](https://github.com/vietanhdev/autonomous-car-2020) 🛺 - Self-driving cars in simulated environment. - 🏆 **Top 1 FPT DigitalRace - University round at HUST**.
 - [PaperStream](https://github.com/vietanhdev/paper_stream) - PaperStream - Online Paper Streaming for remote education. - 🏆 **Top 2 IBM - SoICT Hackathon 2020**.
 
