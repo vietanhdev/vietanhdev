@@ -42,8 +42,8 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 
 ### 📈 GitHub Stats
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=vietanhdev&theme=default&show_icons=true&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhdev&layout=compact&theme=default&hide_border=false)
+![vietanhdev's Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ### 🤝 Let's Connect!
 - Open for collaborations on AI/ML projects.
