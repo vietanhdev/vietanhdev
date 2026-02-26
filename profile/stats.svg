@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Viet-Anh NGUYEN's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 5205, Total Commits  (last year) : 400, Total PRs: 180, Total Issues: 58, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 5207, Total Commits  (last year) : 400, Total PRs: 180, Total Issues: 58, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 34.749926652073384;
+        stroke-dashoffset: 34.74962339711706;
       }
     }
   
