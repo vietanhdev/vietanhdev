@@ -17,7 +17,6 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
 - **Blogger at:** <a href="https://www.vietanh.dev" target="_blank"><img src="https://github.com/user-attachments/assets/6803c7be-f0de-459f-afc9-f73fb69992f5" width="18px"/></a> [Viet-Anh on Software](https://www.vietanh.dev) - AI & Software Development.
-- **Founder of:** <a href="https://www.nrl.ai" target="_blank"><img src="https://www.nrl.ai/logo/logo-512.png" width="18px"/></a> [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **HuggingFace:**  <a href="https://huggingface.co/vietanhdev" target="_blank"><img src="https://github.com/user-attachments/assets/7bbfa01b-9c00-4dbb-bf32-7cbb7bf74441" width="18px"/></a> [huggingface.co/vietanhdev](https://huggingface.co/vietanhdev).
 - **LinkedIn:** <a href="https://www.linkedin.com/in/vietanhdev/" target="_blank"><img src="https://github.com/user-attachments/assets/c7f85e0a-a6a2-457f-8e9c-3b58e9a116a2" width="18px"/></a> [linkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
 - **About me:** [https://www.vietanh.dev/about](https://www.vietanh.dev/about).
