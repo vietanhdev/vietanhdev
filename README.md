@@ -1,50 +1,59 @@
+## Viet-Anh Nguyen · Senior ML Engineer
 
-## 👋 Hi!, I'm Viet-Anh (Viet) | ML Engineer | Maker | Writer.
+**Edge AI & Inference Economics · Creator of AnyLabeling (3.3k⭐)**
 
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
-<img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![C/C++](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=Rust&logoColor=000)
+![PyTorch](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=ONNX&logoColor=fff)
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-FFD21E?style=flat-square&logoColor=000)
+![AWS](https://img.shields.io/badge/-AWS_ML_Specialty-FF9900?style=flat-square&logo=amazon-aws&logoColor=fff)
+<img src="https://komarev.com/ghpvc/?username=vietanhdev">
 
-> **Work Hard, Build More, and Share Stories. Always Curious.**
+> **I build AI that runs on real hardware, for real people, at low cost.**
 
-Hey there! 👋 I'm a passionate AI/ML Engineer who loves bringing computer vision and deep learning projects to life. When I'm not tinkering with neural networks, I'm busy making AI more approachable for everyone through open-source tools and friendly tutorials. As the founder of Neural Research Lab, I get to work with amazing people who share my enthusiasm for AI innovation. I believe in learning in public and sharing knowledge through my blog posts and open-source contributions - because tech is more fun when we build together! 
+**8+ years shipping production ML.** First ML Lead at [Scopic Software](https://scopicsoftware.com) (USA, remote) since 2025. Previously: autonomous driving at VinAI, AI Core Platform at Samsung SDS (10-engineer team, 4 markets, 3 enterprise customers).
 
-Feel free to explore my projects, reach out for collaborations, or just chat about AI - I'm always excited to connect with fellow tech enthusiasts! 🚀
+**Open-source creator.** 4,000+ GitHub stars across 25+ projects. Founder of [Neural Research Lab](https://www.nrl.ai).
 
-### 🎯 Quick Links & Expertise
+**Edge AI specialist.** C++, NCNN, TensorRT, ONNX Runtime, llama.cpp. On-device deployment from Jetson Nano to RTX GPUs.
 
-- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development.
-- **Blogger at:** <a href="https://www.vietanh.dev" target="_blank"><img src="https://github.com/user-attachments/assets/6803c7be-f0de-459f-afc9-f73fb69992f5" width="18px"/></a> [Viet-Anh on Software](https://www.vietanh.dev) - AI & Software Development.
-- **HuggingFace:**  <a href="https://huggingface.co/vietanhdev" target="_blank"><img src="https://github.com/user-attachments/assets/7bbfa01b-9c00-4dbb-bf32-7cbb7bf74441" width="18px"/></a> [huggingface.co/vietanhdev](https://huggingface.co/vietanhdev).
-- **LinkedIn:** <a href="https://www.linkedin.com/in/vietanhdev/" target="_blank"><img src="https://github.com/user-attachments/assets/c7f85e0a-a6a2-457f-8e9c-3b58e9a116a2" width="18px"/></a> [linkedIn/vietanhdev](https://www.linkedin.com/in/vietanhdev/) (Viet-Anh NGUYEN).
-- **About me:** [https://www.vietanh.dev/about](https://www.vietanh.dev/about).
+### 🚀 Now Building
 
-### 🚀 Featured Projects
+- **[EdgeVox](https://edgevox.nrl.ai)** — Offline voice-agent framework for robots. ROS2-native, ~800ms TTFT on Jetson Orin Nano, 16 languages, safety-first agent architecture. Shipping since early 2026.
+- **[AnyLabeling](https://github.com/vietanhdev/anylabeling) Enterprise Hub** — Extending local-first labeling tool with team collaboration layer.
 
-**Open Source Projects:**
+### 📦 Featured Open Source
 
-- [LlamaAssistant](https://github.com/vietanhdev/llama-assistant) 🦙 - AI-powered assistant to help you with your daily tasks. 🔥🔥🔥
-- [CareerAI](https://github.com/nrl-ai/career-ai) - 🚀 Elevate Your Job Hunt with AI-Powered CVs, Interviews, and Job Matches!
-- [AnyLabeling](https://github.com/vietanhdev/anylabeling) 🏷 - Image labeling tool with Segment Anything + YOLO support - **[3k+](https://github.com/vietanhdev/anylabeling/stargazers)** ⭐.
-- [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[300k+ downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
-- [ChessAI](https://github.com/nrl-ai/chessai) - Computer vision for Chinese chessboard - 🏆 **Top 20 OpenCV AI Competition 2023**.
-- [P8Hub - Private AI Hub](https://github.com/nrl-ai/p8hub) 🐳 - Host your own private AI services - 🏆 [Docker AI/ML Hackathon Honorable Mention](https://devpost.com/software/p8hub-private-ai-hub).
-- [CustomChar](https://github.com/nrl-ai/CustomChar) 🤖 - Offline customized AI characters! With **C++**, **llama.cpp**, **whisper.cpp**, **ggml**, **LLaMA-v2**.
-- [VIA - Vietnam Autonomous](https://via.makerviet.org/) 🚘 - Open-source educational autonomous vehicles - 🏆 **Top 10 LearnOpenCV Blog Competition 2020**.
-- [OpenADAS](https://github.com/vietanhdev/open-adas) 🚗 - An advanced driver-assistance system on Jetson Nano - **[480+](https://github.com/vietanhdev/open-adas/stargazers)** ⭐ - 🏆 [NVIDIA Jetson Project of the Month Prize](https://developer.nvidia.com/blog/jetson-project-of-the-month-driver-assistance-system-using-jetson-nano/).
-- [Autonomous Car 2020](https://github.com/vietanhdev/autonomous-car-2020) 🛺 - Self-driving cars in simulated environment. - 🏆 **Top 1 FPT DigitalRace - University round at HUST**.
-- [PaperStream](https://github.com/vietanhdev/paper_stream) - PaperStream - Online Paper Streaming for remote education. - 🏆 **Top 2 IBM - SoICT Hackathon 2020**.
+| Project | What | Signal |
+|---|---|---|
+| **[AnyLabeling](https://github.com/vietanhdev/anylabeling)** | AI-assisted data labeling with SAM + YOLO | **3.3k⭐** · 350k+ devs reached |
+| **[EdgeVox](https://edgevox.nrl.ai)** | Offline voice agents for robots | 9 releases · PyPI · ROS2 |
+| **[LlamaAssistant](https://llama-assistant.nrl.ai)** | Local LLM desktop assistant | **530⭐** · llama.cpp + RAG |
+| **[DaisyKit](https://daisykit.nrl.ai)** | Cross-platform AI SDK | **312k+** PyPI downloads · starred by NCNN's author |
+| **[OpenADAS](https://github.com/vietanhdev/open-adas)** | Driver-assistance on Jetson Nano | **490⭐** · NVIDIA Jetson Project of the Month |
+| **[samexporter](https://github.com/vietanhdev/samexporter)** | SAM model → ONNX exporter | **399⭐** |
 
-**Other Projects:** [https://www.vietanh.dev/projects](https://www.vietanh.dev/projects).
+More projects: [vietanh.dev/projects](https://www.vietanh.dev/projects)
 
-### 📈 GitHub Stats
+### 🏆 Credentials
 
-![vietanhdev's Stats](./profile/stats.svg)
+- AWS Certified Machine Learning — Specialty (2025)
+- NVIDIA Jetson Project of the Month — OpenADAS (2021)
+- IEEE BigData 2023 publication — Active learning for object detection
+- Samsung SDS Employee of the Year — AI Research Lab (2022)
+
+### 📈 Stats
+
+![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-### 🤝 Let's Connect!
-- Open for collaborations on AI/ML projects.
-- Interested in mentoring and knowledge sharing.
-- Available for technical consulting and speaking engagements.
+### 🔗 Links
+
+- **Blog:** [vietanh.dev](https://www.vietanh.dev) — writing on AI security, agent sandboxes, edge inference
+- **Lab:** [nrl.ai](https://www.nrl.ai) — Neural Research Lab
+- **HuggingFace:** [@vietanhdev](https://huggingface.co/vietanhdev)
+- **LinkedIn:** [vietanhdev](https://www.linkedin.com/in/vietanhdev/)
+
+Based in Hanoi, Vietnam (UTC+7) · 2+ years async-first collaboration with US-based team · Open to technical conversations.
