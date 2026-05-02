@@ -21,7 +21,8 @@
 
 ### 🚀 Now Building
 
-- **[EdgeVox](https://edgevox.nrl.ai)** — Offline voice-agent framework for robots. ROS2-native, ~800ms TTFT on Jetson Orin Nano, 16 languages, safety-first agent architecture. Shipping since early 2026.
+- **[EdgeVox](https://edgevox.nrl.ai)** — Offline voice-agent framework for robots. ROS2-native STT/LLM/TTS pipeline, safety-first agent architecture. Shipping since early 2026.
+- **[Nôm](https://github.com/nrl-ai/nom-vn)** — Vietnamese-first AI toolkit (named after chữ Nôm). RAG over docs, diacritic restoration, OCR, segmentation, document parsing. Local-first, multi-backend (Ollama / llama.cpp / HF / OpenAI / Anthropic). Apache-2.0.
 - **[AnyLabeling](https://github.com/vietanhdev/anylabeling) Enterprise Hub** — Extending local-first labeling tool with team collaboration layer.
 
 ### 📦 Featured Open Source
@@ -30,6 +31,7 @@
 |---|---|---|
 | **[AnyLabeling](https://github.com/vietanhdev/anylabeling)** | AI-assisted data labeling with SAM + YOLO | **3.3k⭐** · 350k+ devs reached |
 | **[EdgeVox](https://edgevox.nrl.ai)** | Offline voice agents for robots | 9 releases · PyPI · ROS2 |
+| **[Nôm](https://github.com/nrl-ai/nom-vn)** | Vietnamese-first AI toolkit: RAG, diacritics, OCR, parsing | v0.2.37 on PyPI · Apache-2.0 · local-first |
 | **[LlamaAssistant](https://llama-assistant.nrl.ai)** | Local LLM desktop assistant | **530⭐** · llama.cpp + RAG |
 | **[DaisyKit](https://daisykit.nrl.ai)** | Cross-platform AI SDK | **312k+** PyPI downloads · starred by NCNN's author |
 | **[OpenADAS](https://github.com/vietanhdev/open-adas)** | Driver-assistance on Jetson Nano | **490⭐** · NVIDIA Jetson Project of the Month |
