@@ -1,6 +1,6 @@
 ## Viet-Anh Nguyen · Senior ML Engineer
 
-**Edge AI & Inference Economics · Creator of AnyLabeling (3.3k⭐)**
+**Edge AI & Inference Economics · Creator of AnyLabeling (3.4k⭐)**
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![C/C++](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
@@ -15,7 +15,7 @@
 
 **8+ years shipping production ML.** First ML Lead at [Scopic Software](https://scopicsoftware.com) (USA, remote) since 2025. Previously: autonomous driving at VinAI, AI Core Platform at Samsung SDS (10-engineer team, 4 markets, 3 enterprise customers).
 
-**Open-source creator.** 4,000+ GitHub stars across 25+ projects. Founder of [Neural Research Lab](https://www.nrl.ai).
+**Open-source creator.** 6,000+ GitHub stars across 25+ projects. Founder of [Neural Research Lab](https://www.nrl.ai).
 
 **Edge AI specialist.** C++, NCNN, TensorRT, ONNX Runtime, llama.cpp. On-device deployment from Jetson Nano to RTX GPUs.
 
@@ -29,13 +29,13 @@
 
 | Project | What | Signal |
 |---|---|---|
-| **[AnyLabeling](https://github.com/vietanhdev/anylabeling)** | AI-assisted data labeling with SAM + YOLO | **3.3k⭐** · 350k+ devs reached |
-| **[EdgeVox](https://edgevox.nrl.ai)** | Offline voice agents for robots | 9 releases · PyPI · ROS2 |
+| **[AnyLabeling](https://github.com/vietanhdev/anylabeling)** | AI-assisted data labeling with SAM + YOLO | **3.4k⭐** · 340k+ downloads |
+| **[EdgeVox](https://edgevox.nrl.ai)** | Offline voice agents for robots | 11 releases · PyPI · ROS2 |
 | **[Nôm](https://github.com/nrl-ai/nom-vn)** | Vietnamese-first AI toolkit: RAG, diacritics, OCR, parsing | v0.2.37 on PyPI · Apache-2.0 · local-first |
-| **[LlamaAssistant](https://llama-assistant.nrl.ai)** | Local LLM desktop assistant | **530⭐** · llama.cpp + RAG |
-| **[DaisyKit](https://daisykit.nrl.ai)** | Cross-platform AI SDK | **312k+** PyPI downloads · starred by NCNN's author |
-| **[OpenADAS](https://github.com/vietanhdev/open-adas)** | Driver-assistance on Jetson Nano | **490⭐** · NVIDIA Jetson Project of the Month |
-| **[samexporter](https://github.com/vietanhdev/samexporter)** | SAM model → ONNX exporter | **399⭐** |
+| **[LlamaAssistant](https://llama-assistant.nrl.ai)** | Local LLM desktop assistant | **529⭐** · llama.cpp + RAG |
+| **[DaisyKit](https://daisykit.nrl.ai)** | Cross-platform AI SDK | **324k+** PyPI downloads · starred by NCNN's author |
+| **[OpenADAS](https://github.com/vietanhdev/open-adas)** | Driver-assistance on Jetson Nano | **494⭐** · NVIDIA Jetson Project of the Month |
+| **[samexporter](https://github.com/vietanhdev/samexporter)** | SAM model → ONNX exporter | **419⭐** |
 
 More projects: [vietanh.dev/projects](https://www.vietanh.dev/projects)
 
