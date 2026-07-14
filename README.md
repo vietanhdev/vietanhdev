@@ -23,7 +23,6 @@
 
 - **[EdgeVox](https://edgevox.nrl.ai)** — Offline voice-agent framework for robots. ROS2-native STT/LLM/TTS pipeline, safety-first agent architecture. Shipping since early 2026.
 - **[Nôm](https://github.com/nrl-ai/nom-vn)** — Vietnamese-first AI toolkit (named after chữ Nôm). RAG over docs, diacritic restoration, OCR, segmentation, document parsing. Local-first, multi-backend (Ollama / llama.cpp / HF / OpenAI / Anthropic). Apache-2.0.
-- **[AnyLabeling](https://github.com/vietanhdev/anylabeling) Enterprise Hub** — Extending local-first labeling tool with team collaboration layer.
 
 ### 📦 Featured Open Source
 
