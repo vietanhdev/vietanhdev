@@ -21,6 +21,7 @@
 
 ### 🚀 Now Building
 
+- **[Bulwark](https://bulwark.nrl.ai)** — Linux security scanner in Rust that also audits your **AI coding assistants**: API keys leaked into Claude Code / Cursor / Copilot transcripts, and agent config a prompt injection could turn into code execution. Plain-language findings, reversible one-click fixes, no telemetry. CLI + desktop app, scans a fleet over SSH.
 - **[EdgeVox](https://edgevox.nrl.ai)** — Offline voice-agent framework for robots. ROS2-native STT/LLM/TTS pipeline, safety-first agent architecture. Shipping since early 2026.
 - **[Nôm](https://github.com/nrl-ai/nom-vn)** — Vietnamese-first AI toolkit (named after chữ Nôm). RAG over docs, diacritic restoration, OCR, segmentation, document parsing. Local-first, multi-backend (Ollama / llama.cpp / HF / OpenAI / Anthropic). Apache-2.0.
 
@@ -29,6 +30,7 @@
 | Project | What | Signal |
 |---|---|---|
 | **[AnyLabeling](https://github.com/vietanhdev/anylabeling)** | AI-assisted data labeling with SAM + YOLO | **3.4k⭐** · 340k+ downloads |
+| **[Bulwark](https://bulwark.nrl.ai)** | Linux security + antivirus that audits AI coding assistants | 65 rules · Rust · Ubuntu PPA · Apache-2.0 |
 | **[EdgeVox](https://edgevox.nrl.ai)** | Offline voice agents for robots | 11 releases · PyPI · ROS2 |
 | **[Nôm](https://github.com/nrl-ai/nom-vn)** | Vietnamese-first AI toolkit: RAG, diacritics, OCR, parsing | v0.2.37 on PyPI · Apache-2.0 · local-first |
 | **[LlamaAssistant](https://llama-assistant.nrl.ai)** | Local LLM desktop assistant | **529⭐** · llama.cpp + RAG |
